@@ -1,7 +1,4 @@
 {
-  "name": "smithhub",
-  "version": "4.1.1",
-  "description": "The Future of Unblocked Gaming!",
   "type": "module",
   "main": "index.js",
   "scripts": {
